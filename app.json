@@ -1,7 +1,7 @@
 {
   "name": "Malefis' GroupMe Gifbot",
-  "description": "A GroupMe Gifbot which allows you to have gifs in groupme chat rooms",
-  "repository": "https://github.com/Malefis/malefis-groupme-gifbot",
+  "description": "A GroupMe giphybot which allows you to have gifs in groupme chat rooms",
+  "repository": "https://github.com/Malefis/malefis-groupme-giphybot",
   "logo": "http://giphy.com/static/img/giphy_logo_square_social.png",
   "keywords": ["node", "GroupMe", "Malefis","Bot", "Gif"]
 }
